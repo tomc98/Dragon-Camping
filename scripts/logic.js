@@ -25,7 +25,6 @@ document.addEventListener('DOMContentLoaded', function () {
             if (footerText) footerText.textContent = data.footerText;
 
             // Set the background images
-            // document.getElementById('hero-section').style.backgroundImage = `url(${images.heroImage})`;
             document.getElementById('about-event').style.backgroundImage = `url(${images.about})`;
             document.getElementById('workshops-section').style.backgroundImage = `url(${images.workshop})`;
             document.getElementById('get-involved').style.backgroundImage = `url(${images.involved})`;
