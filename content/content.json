@@ -1,0 +1,110 @@
+{
+  "footerText": "Dragon Legacy Camping - Immerse in Nature, Engage in Self-Discovery",
+  "ticketsHeader": "Join the Adventure - Get Your Tickets Now!",
+  "ticketsDescription": "Tickets are available for purchase online. Secure your spot today!",
+  "heroTitle": "Dragon Legacy: A Journey of Flow and Wellbeing",
+  "heroSubtitle": "Unleash Your Potential in the Heart of Nature",
+  "aboutEvent": "Experience a unique blend of mindfulness, creativity, and community in the serene embrace of nature. Dragon Legacy offers a transformative retreat with activities like yoga, meditation, and fire twirling, designed to ignite your spirit and nourish your soul.",
+  "workshopsHeader": "Explore Our Enriching Workshops",
+  "workshopsDescription": "Dive into a diverse range of workshops from ecstatic dance to fire safety training, each crafted to enhance your wellbeing and personal growth.",
+  "workshops": {
+    "HulaHoop": {
+      "level": "Beginner / Intermediate",
+      "runBy": "TBD",
+      "duration": "TBD",
+      "equipmentRequired": "Hoops (40)",
+      "description": "TBD",
+      "image": "media/workshop/hula.png"
+    },
+    "Fans": {
+      "level": "Beginner",
+      "runBy": "Ask Veronika?",
+      "duration": "TBD",
+      "equipmentRequired": "Fans (quantity TBD)",
+      "description": "TBD"
+    },
+    "DragonStaff": {
+      "level": "Beginner + Intermediate / Advanced",
+      "runBy": "TBD",
+      "duration": "TBD",
+      "equipmentRequired": "Dragon staffs (minimum 20)",
+      "description": "TBD"
+    },
+    "Staff": {
+      "level": "Beginner and/or Intermediate",
+      "runBy": "Jono",
+      "duration": "TBD",
+      "equipmentRequired": "Staffs (minimum 25)",
+      "description": "TBD",
+      "image": "media/workshop/staff.png"
+    },
+    "Doubles": {
+      "level": "Beginner",
+      "runBy": "TBD",
+      "duration": "TBD",
+      "equipmentRequired": "TBD",
+      "description": "TBD"
+    },
+    "Juggling": {
+      "level": "Intermediate?",
+      "runBy": "Jono",
+      "duration": "TBD",
+      "equipmentRequired": "Juggling balls and clubs (quantity TBD)",
+      "description": "TBD",
+      "image": "media/workshop/juggling.png"
+    },
+    "ColdPlunge": {
+      "level": "All Levels",
+      "runBy": "Jono/Tomi",
+      "duration": "TBD",
+      "equipmentRequired": "Self-provided towels, swimmers, and water shoes",
+      "description": "TBD"
+    },
+    "YogaStretching": {
+      "level": "All Levels",
+      "runBy": "Kinga, Jess?, Kincső? If anyone wants to assist",
+      "duration": "45-60 mins",
+      "equipmentRequired": "Self-provided mats and towels",
+      "description": "Stretching the body every morning after or during the cold plunge, and possibly in the afternoons before dinner"
+    },
+    "Bellydance": {
+      "level": "All Levels",
+      "runBy": "Kinga, Aurora?",
+      "duration": "45-60 mins",
+      "equipmentRequired": "Belly dancing scarves",
+      "description": "Empowering the inner feminine through conscious movement of the hips, chest, arms, head, shoulders, arms and stomping on the earth"
+    },
+    "ArtOfFlow": {
+      "level": "All Levels",
+      "runBy": "Kinga, Jess? Whoever else wants to help or has ideas?",
+      "duration": "45-60 mins",
+      "equipmentRequired": "20 different random props to challenge the draglings",
+      "description": "Begin with questioning 'What is flow?' List words together that come to mind. First is a 10 min exercise- flow to music with no props for 10 mins straight (ecstatic dance). The only rule of the exercise is to not stop. Just keep moving. Can be very slow movements. Anything can be a flow toy. Provide 20 different random items (ribbon on string, one sqoop, juggling scarves, regular fans, slinky, kitchen tools, etc). Guests get 1-2 minutes to flow with their item, then they must swap to a different item. 10 rotations, exercise is 10-20 mins."
+    },
+    "EcstaticDanceChoreography": {
+      "level": "All Levels",
+      "runBy": "Kinga and whoever wants to help?",
+      "duration": "45-60 mins",
+      "equipmentRequired": "Specific song for choreographed routine",
+      "description": "Begin with a 10-20 minute self-guided ecstatic dance to loosen the body. Next, teach a 2-3 minute choreography to perform at the Saturday night showcase / ceremony."
+    },
+    "ConsciousMovementBalance": {
+      "level": "All Levels",
+      "runBy": "Kinga? Aaron?",
+      "duration": "45 mins",
+      "equipmentRequired": "Self-provided mats or towels",
+      "description": "Consciously working on your bad side. Slow movement to strengthen the knees, ankles and problem areas. Working on balance, both sides."
+    },
+    "PartnerFirePalms": {
+      "level": "All Levels",
+      "runBy": "TBD",
+      "duration": "TBD",
+      "equipmentRequired": "(amount) x palms",
+      "description": "Following the leader, switching roles, creating different shapes by exploring different levels and playing with canon arm movements"
+    }
+  },
+  "getInvolved": "Become a Part of Our Community",
+  "volunteerOpportunities": "Lend a hand, share your skills, and create unforgettable memories. Join our team of passionate volunteers!",
+  "contactUs": "Have Questions? Get in Touch!",
+  "contactDetails": "Reach out to us at [email@email.com] for any inquiries or assistance."
+}

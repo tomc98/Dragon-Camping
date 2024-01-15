@@ -1,0 +1,16 @@
+export const images = {
+    about: '/media/Photoshoots%20Edited/Ben-1.jpg',
+    workshop: 'media/Photoshoots%20Edited/DSC02479.jpg',
+    involved: 'media/Photoshoots%20Edited/Laura-1.jpg',
+    buyTickets: 'media/Photoshoots%20Edited/Laura-4.jpg',
+    meditation: 'https://source.unsplash.com/random/400x300?meditation',
+    yoga: 'https://source.unsplash.com/random/400x300?yoga',
+    nature: 'https://source.unsplash.com/random/400x300?nature',
+    artWorkshop: 'https://source.unsplash.com/random/400x300?art-workshop',
+    danceWorkshop: 'https://source.unsplash.com/random/400x300?dance-workshop',
+    communityGathering: 'https://source.unsplash.com/random/400x300?community',
+    liveMusic: 'https://source.unsplash.com/random/400x300?live-music',
+    heroImage: 'https://source.unsplash.com/random/1920x1080?event',
+    volunteer: 'https://source.unsplash.com/random/400x300?volunteer',
+    banner: 'https://source.unsplash.com/random/1920x1080?banner',
+};
